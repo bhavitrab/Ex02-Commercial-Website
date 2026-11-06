@@ -52,7 +52,10 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-<h1>index.html<h1>
+<h1>index.html<\h1>
+
+
+
 
 ```
 
@@ -183,6 +186,9 @@ Upload to GitHub Pages for free hosting.
 ```
 
 <h1>style.css<\h1>
+
+
+
 
 ```
 
